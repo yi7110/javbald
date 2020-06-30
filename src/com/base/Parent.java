@@ -8,6 +8,7 @@ package com.base;
  */
 public class Parent {
 
+    String name = "papa";
     public void method1(){
         System.out.println("papa");
     }

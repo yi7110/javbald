@@ -8,6 +8,7 @@ package com.base;
  */
 public class Child extends Parent {
 
+    String name = "pp";
     @Override
     public void method1(){
         System.out.println("pianpian");

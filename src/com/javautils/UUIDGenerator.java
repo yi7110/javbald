@@ -1,4 +1,4 @@
-package com.company;
+package com.javautils;
 
 import java.net.InetAddress;
 
